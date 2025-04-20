@@ -1,2 +1,2 @@
 # Finance App
-A web based Application which consists of Top NASDAQ Stocks to buy, sell and quote in your own portfolio.
+A web-based finance application that allows users to manage their personal stock portfolio. Users can register, log in, and simulate buying and selling stocks. The app uses real-time stock data (via an API) and keeps track of each user's transactions, cash balance, and current holdings. It also includes features like viewing stock quotes, transaction history, and total portfolio value. The project emphasizes user authentication, database design, and interaction with external APIs.
